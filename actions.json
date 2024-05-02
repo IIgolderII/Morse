@@ -1,0 +1,17 @@
+[
+    {
+        "key": ".",
+        "name": "Play/Pause Media",
+        "action": "playpause"
+    },
+    {
+        "key": ".-",
+        "name": "Next Track",
+        "action": "nexttrack"
+    },
+    {
+        "key": "-.",
+        "name": "Previous Track",
+        "action": "prevtrack"
+    }
+]
